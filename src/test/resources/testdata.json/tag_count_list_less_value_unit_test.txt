@@ -1,0 +1,18 @@
+<response>
+    <result>
+        <msg>
+            <text>Parser error.</text>
+            <type>error</type>
+            <object>
+                <type>body</type>
+                <value>0</value>
+            </object>
+        </msg>
+        <status>
+            <code>E00000</code>
+            <text>Errors occurred during processing.</text>
+            <type>error</type>
+        </status>
+    </result>
+    <stid>20240925-app2-282717</stid>
+</response>
